@@ -1,6 +1,6 @@
 package players;
 
-import javax.tools.Tool;
+import tool.ToolType;
 
 public class Fighter extends Player{
 

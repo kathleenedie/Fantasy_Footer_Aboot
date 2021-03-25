@@ -1,5 +1,7 @@
 package players;
 
+import tool.ToolType;
+
 public class Sourcerer extends Player{
 
     private SourcererType type;
