@@ -14,4 +14,5 @@ public class Cleric extends Player{
     public ToolType getHealer() {
         return healer;
     }
+
 }
